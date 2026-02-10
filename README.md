@@ -5,7 +5,7 @@ This repository provides the reference implementation of **TLC-Calib**, a sparse
 It accompanies the IEEE TIM paper:
 
 > **Robust Multi-View Extrinsic Calibration with Limited Co-observations via Sparse Graph Reprojection and Target-Driven Loop Closure**  
-> <Guanhua Chen, Fengdong Chen, Guodong Liu, Yueyue Han and Kejun Li>, IEEE Transactions on Instrumentation and Measurement, <2026>.  
+> Guanhua Chen, Fengdong Chen, Guodong Liu, Yueyue Han and Kejun Li, IEEE Transactions on Instrumentation and Measurement, 2026.  
 > (Early Access / DOI: <to be added>)
 
 ---

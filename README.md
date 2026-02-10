@@ -5,7 +5,7 @@ This repository provides the reference implementation of **TLC-Calib**, a sparse
 It accompanies the IEEE TIM paper:
 
 > **Robust Multi-View Extrinsic Calibration with Limited Co-observations via Sparse Graph Reprojection and Target-Driven Loop Closure**  
-> <Authors>, IEEE Transactions on Instrumentation and Measurement, <Year>.  
+> <Guanhua Chen, Fengdong Chen, Guodong Liu, Yueyue Han and Kejun Li>, IEEE Transactions on Instrumentation and Measurement, <2026>.  
 > (Early Access / DOI: <to be added>)
 
 ---
@@ -49,6 +49,7 @@ For details, please refer to the paper.
 - Python: `== 3.11`
   - g2o-python: `>=0.0.12`
   - aprilgrid: `>=0.3.0`
+  - open3d: `>=0.18.0`
 
 > **Note:** The exact dependency list will be provided in the first public release.
 

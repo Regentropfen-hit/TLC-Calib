@@ -22,11 +22,6 @@ It accompanies the IEEE TIM paper:
 
 ## Repository Status
 
-- ✅ Codebase: **in preparation for public release**
-- ✅ Paper link / citation: **available**
-- ⏳ Example datasets and full scripts: **to be released**
-- ⏳ One-click reproduction: **to be released**
-
 > We are actively cleaning the code and organizing datasets/scripts to ensure reproducibility.  
 > The final release will include documented pipelines and example data consistent with the paper.
 

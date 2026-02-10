@@ -46,14 +46,14 @@ For details, please refer to the paper.
 ## Getting Started
 
 ### Requirements
-- OS: Ubuntu 20.04/22.04 recommended (Windows is possible but not tested)
-- Compiler: `gcc`/`g++` with C++17 support (if applicable)
-- Python: `>= 3.8` (if applicable)
+- Python: `== 3.11`
+  - g2o-python: `>=0.0.12`
+  - aprilgrid: `>=0.3.0`
 
 > **Note:** The exact dependency list will be provided in the first public release.
 
 ### Installation (Placeholder)
 ```bash
-git clone https://github.com/chenguanhuahit/TLC-Calib.git
+git clone https://github.com/Regentropfen-hit/TLC-Calib.git
 cd TLC-Calib
 # TODO: installation steps will be added
